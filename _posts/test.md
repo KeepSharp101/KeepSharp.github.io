@@ -1,6 +1,6 @@
 ---
 title: Welcome to KeepSharp
-date: 2026-09-18 12:00:00 +0300
+date: 2026-09-15 10:00:00 +0300
 categories: [General, Announcement]
 tags: [welcome, pentest, forensics]
 ---
