@@ -1,3 +1,10 @@
+---
+title: "Resources"
+date: 2026-09-20 14:10:00 +0300
+categories: [Security Notes, BlueTeam]
+tags: [resources, blogs]
+---
+
 
 ## Blogs
 
