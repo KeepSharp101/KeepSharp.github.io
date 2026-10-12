@@ -27,5 +27,3 @@ I actively sharpen my skills through continuous hands-on labs and practical chal
 * **Platforms:** Blue Team Labs Online (BTLO), Hack The Box (HTB), and LetsDefend.
 * **Current Focus:** Preparing for the **Hack The Box Certified Defensive Security Analyst (HTB CDSA)** certification to deepen my SOC, incident response, and threat analysis expertise.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
